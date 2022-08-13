@@ -4,6 +4,8 @@
 
 With the use of this tool you will be able, given a username and a password dictionary, to bruteforce any given WordPress website through the use of its XML-RPC API.
 
+<b>Disclaimer:</b> For educational purposes only. Not intended for illegal activities. The author is not responsible for any action performed by the software user.
+
 <h2><b>Features</b></h2>
 
 - Accepts SOCKS 4/5 Proxies.
