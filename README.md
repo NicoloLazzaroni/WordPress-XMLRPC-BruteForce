@@ -12,6 +12,10 @@ With the use of this tool you will be able, given a username and a password dict
 - Allows to set a Custom Delay to be used when Rate-Limited.
 - Allows Custom URLs (to use when the XMLRCP.php file has been moved or renamed).
 - Fast and Reliable (100% Java).
+- Supports any password dictionary formatted with one password per line.
+
+Example of a password dictionary: <br>
+<img width="243" alt="Sample-Dictionary" src="https://user-images.githubusercontent.com/55408375/184492840-ab629a58-402b-46d6-a61c-b844dbd1c01b.png">
 
 <h2><b>Installation</b></h2>
 
